@@ -1,2 +1,2 @@
-# AdamLassiter.github.io
+# My Github.io page
 pages.github repository
